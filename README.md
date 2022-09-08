@@ -1,6 +1,6 @@
-# READMe
+# ReadMe
   ## Description
-  Description entails the projects motivation, why the project was done, and what problem the project solves.
+  The description is the motivation behind the project. Why did you build the project? What problem does it solve?
 
   ## Table of Contents (Optional)
   
@@ -10,16 +10,22 @@
   - [License](#license)
   
   ## Installation
-  Installation are steps for the user to follow to run the appliation; it includes a screenshot and link to the project as well.
+  The installation is the steps required to install the project and gives detailed steps on how to get the project to work.
+  
   ## Usage
-  Usage will include the screenshots to help the user know how to use the application and also includes the link to the application.
+  This section is called the Usage. It provides instructions for use and includes screenshots or screen recordings of the project. It also includes a link to the project.
+
+  https://drive.google.com/file/d/1c545lZmp3nRvAMRMMh6YflTBYPtT8Ne7/view
+
   ## Credits
-  The contributors include the creditors, if there are any, and their github profiles . It also includes third-party applications used, and tutorials that helped witht the application.
+  This section is called Credits where you list the collaborators on the project along with their github profile links. Also, if you used any third party assets or tutorials you will list them here.
+
   ## License
   [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+
   ## Tests
-  Tests are when you run the application and the application will pass or fail. The passing or failing will determine if the project fixes the issue needed.
+  The test portion of the project will let you know if the project passes or fails, meaning will it work or if their is a code that is broken.
 
   ## Questions
-  Github : The github username will include all repositories and projects. - [The github username will include all repositories and projects.](https://github.com/The github username will include all repositories and projects.) 
+  Github : github.com/anquavious - [github.com/anquavious](https://github.com/github.com/anquavious) 
   You can also contact me via agrant022@gmail.com
